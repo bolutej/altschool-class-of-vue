@@ -12,7 +12,7 @@
 import colorpickercomp from '../composables/ColorPickerComp';
 export default {
   setup() {
-    const { colors, message, matchColor } = colorpickercomp();
+    const {colors, message, matchColor} = colorpickercomp();
   },
 };
 </script>
